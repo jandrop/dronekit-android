@@ -8,7 +8,7 @@
     <string name="update_service_dialog_update_button">Actualizar</string>
 
     <string name="error_no_error">¡Sin errores!</string>
-    <string name="error_throttle_below_failsafe">Throttle below failsafe</string>
+    <string name="error_throttle_below_failsafe">Throttle es por debajo del failsafe</string>
     <string name="error_gyro_calibration_failed">La calibración del giroscópio ha fallado</string>
     <string name="error_mode_not_armable">Modo no armable</string>
     <string name="error_rotor_not_spinning">El motor no gira</string>
